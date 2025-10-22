@@ -1,6 +1,6 @@
 # Scriptism – Simple
 
-A tiny command-line .... app that ...., shows a four-item menu, and records their order.
+A tiny command-line tic tac toe game.
 
 ## How to run
 
